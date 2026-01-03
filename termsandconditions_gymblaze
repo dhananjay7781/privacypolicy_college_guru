@@ -1,0 +1,166 @@
+TERMS AND CONDITIONS
+
+Last Updated: January 3, 2026
+
+1. ACCEPTANCE OF TERMS
+
+By accessing and using GymSuite ("the App"), you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to these Terms and Conditions, please do not use the App.
+
+2. DESCRIPTION OF SERVICE
+
+GymSuite is a gym management application that provides tools for gym administrators to manage members, track memberships, process payments, handle enquiries, and generate reports. The service includes member registration, membership renewal, attendance tracking, and administrative dashboard features.
+
+3. USER ACCOUNTS
+
+3.1 Account Creation
+- Users must provide accurate, current, and complete information during registration
+- Users are responsible for maintaining the confidentiality of their account credentials
+- Users must notify us immediately of any unauthorized use of their account
+
+3.2 Account Types
+- Admin Accounts: For gym owners and administrators to manage gym operations
+- Member Accounts: For gym members to access their membership information
+- Trainer Accounts: For gym trainers to manage their assigned members
+
+3.3 Account Termination
+- We reserve the right to terminate or suspend accounts that violate these terms
+- Users may request account deletion by contacting support
+
+4. MEMBERSHIP AND PAYMENTS
+
+4.1 Membership Fees
+- Membership fees are determined by the gym administrator
+- All fees must be paid in advance unless otherwise agreed
+- Payment processing is handled through integrated payment gateways (Razorpay)
+
+4.2 Refund Policy
+- Refund policies are determined by individual gym administrators
+- Disputes regarding payments should be resolved directly with the gym
+
+4.3 Automatic Renewal
+- Memberships may be set to automatically renew based on gym policies
+- Users will be notified before automatic renewal charges
+
+5. DATA COLLECTION AND PRIVACY
+
+5.1 Information Collected
+- Personal information: Name, email, contact number, date of birth
+- Membership details: Membership type, start date, end date, payment history
+- Photos: Profile pictures and ID documents uploaded by users
+- Usage data: App activity, attendance records, payment transactions
+
+5.2 Use of Information
+- To provide and improve our services
+- To process payments and manage memberships
+- To communicate important updates and notifications
+- To generate reports and analytics for gym administrators
+
+5.3 Data Storage
+- Data is stored securely using Firebase Cloud Firestore and Firebase Storage
+- We implement industry-standard security measures to protect user data
+- Data is encrypted during transmission and at rest
+
+5.4 Data Sharing
+- We do not sell or share personal data with third parties for marketing purposes
+- Data may be shared with payment processors for transaction processing
+- Gym administrators have access to their members' data for management purposes
+
+5.5 Data Retention
+- User data is retained as long as the account is active
+- Deleted accounts and associated data are permanently removed within 30 days
+- Financial records may be retained longer for legal and accounting purposes
+
+6. USER RESPONSIBILITIES
+
+6.1 Prohibited Activities
+- Unauthorized access to other users' accounts or data
+- Uploading malicious code, viruses, or harmful content
+- Harassing, threatening, or abusing other users
+- Providing false or misleading information
+- Using the App for illegal activities
+
+6.2 Content Guidelines
+- Users are responsible for all content they upload
+- Content must not violate any laws or third-party rights
+- We reserve the right to remove inappropriate content
+
+7. INTELLECTUAL PROPERTY
+
+7.1 App Ownership
+- GymSuite and all associated intellectual property rights belong to the developer
+- The app's design, code, features, and content are protected by copyright laws
+
+7.2 User Content
+- Users retain ownership of content they upload
+- By uploading content, users grant us a license to use, display, and store the content for service delivery
+
+7.3 Trademarks
+- "GymSuite" and associated logos are trademarks of the developer
+- Unauthorized use of these trademarks is prohibited
+
+8. LIABILITY AND DISCLAIMERS
+
+8.1 Service Availability
+- We strive to maintain 99% uptime but do not guarantee uninterrupted service
+- We are not liable for service interruptions due to maintenance, technical issues, or force majeure
+
+8.2 Data Accuracy
+- While we take measures to ensure data accuracy, we are not responsible for errors caused by user input
+- Users are responsible for verifying their information
+
+8.3 Third-Party Services
+- The App integrates with third-party services (Firebase, Razorpay, etc.)
+- We are not responsible for issues arising from third-party service failures
+
+8.4 Limitation of Liability
+- To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, or consequential damages
+- Our total liability shall not exceed the amount paid by the user in the past 12 months
+
+8.5 Health and Safety
+- GymSuite is a management tool and does not provide fitness or health advice
+- Users should consult healthcare professionals before starting any fitness program
+
+9. SUBSCRIPTION AND CANCELLATION
+
+9.1 Subscription Plans
+- Subscription plans and pricing are subject to change with notice
+- Users will be notified of any price changes at least 30 days in advance
+
+9.2 Cancellation
+- Users may cancel their subscription at any time
+- Cancellation takes effect at the end of the current billing period
+- No refunds for partial subscription periods unless required by law
+
+10. MODIFICATIONS TO TERMS
+
+We reserve the right to modify these Terms and Conditions at any time. Changes will be effective immediately upon posting to the App. Continued use of the App after changes constitutes acceptance of the modified terms.
+
+11. GOVERNING LAW
+
+These Terms and Conditions are governed by and construed in accordance with the laws of India. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of courts in [Your City/State].
+
+12. INDEMNIFICATION
+
+Users agree to indemnify and hold harmless GymSuite, its developers, and affiliates from any claims, damages, losses, liabilities, and expenses arising from:
+- Violation of these Terms and Conditions
+- Violation of any rights of third parties
+- Misuse of the App or services
+
+13. CONTACT INFORMATION
+
+For questions, concerns, or support regarding these Terms and Conditions, please contact us at:
+
+Email: support@gymsuite.com
+Website: www.gymsuite.com
+
+14. SEVERABILITY
+
+If any provision of these Terms and Conditions is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms and Conditions shall otherwise remain in full force and effect.
+
+15. ENTIRE AGREEMENT
+
+These Terms and Conditions constitute the entire agreement between you and GymSuite regarding the use of the App and supersede all prior agreements and understandings.
+
+16. ACKNOWLEDGMENT
+
+BY USING GYMSUITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS.
